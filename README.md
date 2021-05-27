@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=liaowc&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liaowc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liaowc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liaowc&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liaowc&theme=vue)
