@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Research Interests
-● Reinforcement Learning
-● Deep Learning
-● Game Theory
+- Reinforcement Learning
+- Deep Learning
+- Game Theory
 
 <!--
 **LiaoWC/liaowc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
